@@ -1,6 +1,6 @@
 # phonebookapp
  
- A web app to store contacts.
+ A web app to store contacts using a web application with mongoDB as database server.
  
  use npm install (in server folder)
  
